@@ -25,5 +25,5 @@ This application includes features to add, view, and display details of students
   - Clickable items to view student details.
 
 - Detail Screen: 
- - Displays a detailed view of a student. 
- - Compact, attractive layout with a profile-like design.
+  - Displays a detailed view of a student. 
+  - Compact, attractive layout with a profile-like design.
