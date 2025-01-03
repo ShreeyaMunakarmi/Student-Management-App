@@ -42,6 +42,6 @@ This application includes features to add, view, and display details of students
 
 ## Demo
 
-[Watch the demo video](assets/screenrecord.mp4)
+[Watch the demo video](assests/screenrecord.mp4)
 
 
