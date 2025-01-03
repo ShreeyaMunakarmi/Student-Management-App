@@ -27,3 +27,16 @@ This application includes features to add, view, and display details of students
 - Detail Screen: 
   - Displays a detailed view of a student. 
   - Compact, attractive layout with a profile-like design.
+
+
+## Screenshots
+
+- ![ss0.png](/ScreenShots/ss0.png)
+
+- ![ss1.png](/ScreenShots/ss1.png)
+
+- ![ss2.png](/ScreenShots/ss2.png)
+
+- ![ss3.png](/ScreenShots/ss3.png)
+
+
