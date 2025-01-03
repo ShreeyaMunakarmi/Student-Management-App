@@ -40,3 +40,8 @@ This application includes features to add, view, and display details of students
 - ![ss3.png](/ScreenShots/ss3.png)
 
 
+## Demo
+
+[Watch the demo video](assets/screenrecord.mp4.mp4)
+
+
