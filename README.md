@@ -1,16 +1,29 @@
-# classwork
+# Student Management App
 
-A new Flutter project.
+A simple Flutter application to manage student data, demonstrating the use of SharedPreferences for data persistence and attractive UI components like Card and ListTile. 
+This application includes features to add, view, and display details of students.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add Students: Fill out a form with student details (Name, Age, and Course) and save them locally using SharedPreferences.
+- View Student List: Displays a list of all saved students with a modern, responsive design using Card and ListTile.
+- Student Details: View detailed information about a selected student in a visually appealing format.
+- Data Persistence: Data is stored locally using SharedPreferences, ensuring it remains available after app restarts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screens
+- Home Screen:
+   - A form to input and save student details.
+   - Navigation options to add students or view the saved list.
+   - Responsive and scrollable layout.
+
+- List Screen:
+  - Displays the saved students in a list format.
+  - Modern Card-based design with CircleAvatar for initials.
+  - Clickable items to view student details.
+
+- Detail Screen: 
+ - Displays a detailed view of a student. 
+ - Compact, attractive layout with a profile-like design.
